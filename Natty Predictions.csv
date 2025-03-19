@@ -1,0 +1,2 @@
+Season,GameID,Team,VS,TeamID,OpponentID,Net Rating_Diff,AdjEM_Diff,AdjOE_Diff,AdjDE_Diff,eFGPct_Diff,TOPct_Diff,ORPct_Diff,FTRate_Diff,AdjDE_Diff_Weighted,Upset_Score,Upset_Score2,Predicted_Win
+2025,100,Ole Miss,Houston,1120,1106,-3.35,-13.3713,-5.372,7.9988,-1.59212234,-1.86643304,-10.78071993,0.1299125000000001,14.39784,6870.332784999998,13740.665569999996,1.0
